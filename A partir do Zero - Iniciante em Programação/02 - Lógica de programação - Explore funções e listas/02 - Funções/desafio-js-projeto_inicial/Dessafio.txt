@@ -1,0 +1,6 @@
+01 - Criar uma função que exibe "Olá, mundo!" no console. [ OK ]
+02 - Criar uma função que recebe um nome como parâmetro e exibe "Olá, [nome]!" no console. [ OK ]
+03 - Criar uma função que recebe um número como parâmetro e retorna o dobro desse número. [ OK ]
+04 - Criar uma função que recebe três números como parâmetros e retorna a média deles. [ OK ]
+05 - Criar uma função que recebe dois números como parâmetros e retorna o maior deles. [ OK ]
+06 - Criar uma função que recebe um número como parâmetro e retorna o resultado da multiplicação desse número por ele mesmo. [ OK ]
